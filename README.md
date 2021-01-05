@@ -7,7 +7,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 Would you like to find me?
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/BateraEntrevista)](https://youtube.com/c/BateraEntrevista)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/felipefialho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/rodandradebcc/)
 
 <!--
 **rodrigoandradebcc/rodrigoandradebcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
